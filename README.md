@@ -7,7 +7,7 @@ https://arcade.makecode.com/S43369-27759-46733-07024
 General Information
 
 WHAT IS IT?
-"Latte Rush" in MakeCode Arcade using Python. "Latte Rush" is a fast-paced game where players navigate obstacles, collect lattes for extra health, and make quick strategic decisions to reach the end efficiently.
+"Latte Rush" in MakeCode Arcade using Python. "Latte Rush" is a fast-paced game where players navigate obstacles, collect lattes for extra health, and make quick strategic decisions to reach "school" before the 40-second timer runs out.
 
 What problem does it (intend to) solve?
 This project's objective is to use design principles and the basics of coding to create a playable digital prototype while investigating iterative design through testing and improvement.
