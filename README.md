@@ -5,7 +5,7 @@ https://arcade.makecode.com/S43369-27759-46733-07024
 
 
 General Information
-Provide general information about your project here.
+
 "Latte Rush" in MakeCode Arcade using Python
 What problem does it (intend to) solve?
 This project's objective is to use design principles and the basics of coding to create a playable digital prototype while investigating iterative design through testing and improvement.
@@ -21,10 +21,6 @@ Features
 - Includes `.uf2` file and online playable version  
 - Narrated explainer video demonstrating project functionality 
 List the ready features here:
-
-
-Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 
 Project Status
